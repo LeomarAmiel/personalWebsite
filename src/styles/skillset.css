@@ -1,0 +1,60 @@
+@media(min-width: 0px){
+    ul{
+        list-style: inside;
+        font-size: 18px;
+     }
+     li{
+         margin-bottom: 4px;
+     }
+
+    .skilsetHeading{
+        font-size: 32px;
+        font-weight: 600;
+        font-family: inherit;
+        color: #FF404E;
+        margin-top: 15px;
+        margin-bottom: 15px;
+    }
+}
+
+@media(min-width: 601px){
+    ul{
+        list-style: inside;
+        padding-left: 40px;
+        font-size: 20px;
+     }
+     li{
+         margin-bottom: 4px;
+     }
+
+    .skilsetHeading{
+        font-size: 32px;
+        font-weight: 600;
+        font-family: inherit;
+        color: #FF404E;
+        margin-top: 15px;
+        margin-bottom: 15px;
+    }
+}
+
+@media(min-width: 901px){
+    ul{
+        list-style: inside;
+        padding-left: 40px;
+        font-size: 20px;
+     }
+     li{
+         margin-bottom: 4px;
+     }
+
+    .skilsetHeading{
+        font-size: 32px;
+        font-weight: 600;
+        font-family: inherit;
+        color: #FF404E;
+        margin-top: 15px;
+        margin-bottom: 15px;    
+        
+        
+    }
+}

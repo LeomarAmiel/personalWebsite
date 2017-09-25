@@ -1,0 +1,53 @@
+html, body{
+    margin: 0;
+    padding: 0;
+    font-family: -apple-system,BlinkMacSystemFont,"Helvetica Neue","Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,sans-serif;
+}
+@media(min-width:0px){
+    p{
+        margin: 0;
+        font-size:18px;
+        margin-top: 15px;
+        margin-bottom: 15px;
+    }
+    .paddingAdder{
+        padding-left: 40px;
+        padding-right: 40px;
+    }
+}
+@media(min-width:601px){
+    p{
+        margin: 0;
+        font-size: 20px;
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+    .paddingAdder{
+        padding-left: 120px;
+        padding-right: 120px;
+    }
+}
+@media(min-width:901px){
+    p{
+        margin: 0;
+        font-size: 20px;
+        margin-top: 24px;
+        margin-bottom: 24px;
+    }
+    .paddingAdder{
+        padding-left: 200px;
+        padding-right: 200px;
+    }
+}
+@media(min-width:1201px){
+    p{
+        margin: 0;
+        font-size: 20px;
+        margin-top: 28px;
+        margin-bottom: 28px;
+    }
+    .paddingAdder{
+        padding-left: 350px;
+        padding-right: 350px;
+    }
+}
